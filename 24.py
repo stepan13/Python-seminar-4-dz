@@ -14,7 +14,6 @@
 # 9 |
 
 from random import randint
-N = randint(3,100)
 N = 10
 gryadka = [randint(0, 100) for i in range(N)]
 
